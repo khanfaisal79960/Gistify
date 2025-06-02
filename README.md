@@ -6,6 +6,12 @@
 
 **Gistify** is a user-friendly web application built with **Streamlit** that allows you to quickly generate concise summaries of long texts. It leverages a powerful pre-trained deep learning model from the **Hugging Face Transformers** library to extract the most important information from your input, providing you with a *gist* of the content.
 
+===
+
+## 🌐 Live Demo
+
+👉 [**View Live Demo**](https://huggingface.co/spaces/khanfaisal79960/Gistify)
+
 ---
 
 ## ✨ Features
